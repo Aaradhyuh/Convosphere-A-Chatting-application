@@ -1,4 +1,5 @@
-ConvoSphere
+##ConvoSphere
+
 ConvoSphere is a messaging application built on a robust client-server architecture. It utilizes socket programming, encryption, and multithreading to provide secure and efficient communication. The application integrates MongoDB for data storage and Pandas for data manipulation, ensuring seamless performance and scalability.
 
 Set up MongoDB and ensure it is running on your system.
